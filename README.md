@@ -468,8 +468,14 @@ body {
 ## OUTPUT:
 
 ### Home Page:
-
-![output](./images/homepage.jpg)
+![output](./images/home.png)
+### Product Page:
+![output](./images/product1.png)
+![output](./images/product2.png)
+### People Page:
+![output](./images/people.png)
+### Contact Us Page:
+![output](./images/contact.png)
 
 ## Result:
 
